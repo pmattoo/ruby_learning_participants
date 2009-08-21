@@ -58,3 +58,4 @@ Change log:
 Cheers,
 ashbb (Satoshi Asakawa)
 http://rubylearning.org
+Testing
